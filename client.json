@@ -1,19 +1,14 @@
 {
-    "clients": [
-        {
-            "id": 1,
-            "name": "Brenda",
-            "email": "Brenda@email.com"
-        },
-        {
-            "id": 2,
-            "name": "Felipe",
-            "email": "Felipe@email.com"
-        },
-        {
-            "id": 3,
-            "name": "random",
-            "email": "random@email.com"
-        }
-    ]
+  "clients": [
+    {
+      "id": 1,
+      "name": "Cliente Gamer 1",
+      "email": "ClienteGamer1@emailfoda.com"
+    },
+    {
+      "id": 2,
+      "name": "Cliente Gamer 2",
+      "email": "ClienteGamer2@email.com"
+    }
+  ]
 }
