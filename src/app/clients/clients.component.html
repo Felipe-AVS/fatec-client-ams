@@ -2,16 +2,20 @@
 <table class="table table-striped">
     <thead>
       <tr>
-        <th scope="col">#</th>
+        <th scope="col">ID</th>
         <th scope="col">Nome</th>
-        <th scope="col">Email</th>
+        <th scope="col">Valor</th>
+        <th scope="col">Marca</th>
+        <th scope="col">Estoque</th>
       </tr>
     </thead>
     <tbody>
       <tr *ngFor="let client of client">
         <th scope="row">{{client.id}}</th>
         <td>{{client.name}}</td>
-        <td>{{client.email}}</td>
+        <td>{{client.value}}</td>
+        <td>{{client.brand}}</td>
+        <td>{{client.stock}}</td>
         <!--<td>
           <button class="btn btn-primary me-2" title="Editar" (click)="edit(client)">
             <svg xmlns="http://www.w3.org/2000/svg" width="20" fill="currentColor" class="bi bi-pencil-fill" viewBox="0 0 16 16">

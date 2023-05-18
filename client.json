@@ -2,13 +2,37 @@
   "clients": [
     {
       "id": 1,
-      "name": "Cliente Gamer 1",
-      "email": "ClienteGamer1@emailfoda.com"
+      "name": "Coca Cola",
+      "value": "R$: 2,50",
+      "brand": "CocaCola",
+      "stock": "231"
+    },{
+      "id": 2,
+      "name": "Pepsi",
+      "value": "R$: 2,25",
+      "brand": "PepsiCo",
+      "stock": "132"
     },
     {
-      "id": 2,
-      "name": "Cliente Gamer 2",
-      "email": "ClienteGamer2@email.com"
+      "id": 3,
+      "name": "Fanta",
+      "value": "R$: 2,50",
+      "brand": "CocaCola",
+      "stock": "372"
+    },
+    {
+      "id": 4,
+      "name": "Guaraná Antártica",
+      "value": "R$: 1,50",
+      "brand": "Guaraná",
+      "stock": "555"
+    },
+    {
+      "id": 5,
+      "name": "Guaraná Jesus",
+      "value": "R$: 3,75",
+      "brand": "CocaCola",
+      "stock": "777"
     }
   ]
 }
